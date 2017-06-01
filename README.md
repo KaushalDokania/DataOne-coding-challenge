@@ -7,7 +7,7 @@
 * First of all **clone** this repository in your PC in some directory say `E:\code`.
 
 ### Compiling the program
-* (*Important*) Please ensure you have jdk installed in your PC with the `PATH` environment variable set to the `bin` directory.
+* (**Important**) Please ensure you have jdk installed in your PC with the `PATH` environment variable set to the `bin` directory.
 * Double click on `compile.bat` in the directory `E:\code` to compile the program (cmd will open and then close automatically).
 
 	**or**
