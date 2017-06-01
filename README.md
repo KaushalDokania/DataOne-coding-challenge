@@ -3,10 +3,10 @@
 
 ## Executing the program
 
-### Fetching the source code
+* ### Fetching the source code
 * First of all clone this repopsitory in your PC in some directory say `E:\code`
 
-### Compiling the program
+* ### Compiling the program
 * Double click on `compile.bat` in `E:\code` directory to compile the program
 or
 * Open command prompt and change the directory to `E:\Code` by typing the following
@@ -18,7 +18,7 @@ or
 E:\Code> javac CSVFileRead.java
 ````
 
-### Running the program
+* ### Running the program
 * Double click on `run.bat` to compile the program with one of the sample input case
 * To run the program with different input use the following syntax
 ````
