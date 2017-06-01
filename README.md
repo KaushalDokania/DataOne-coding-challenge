@@ -9,7 +9,9 @@
 ### Compiling the program
 * Double click on `compile.bat` to compile the program.
 * Run the following command in the command prompt
-`javac CSVFileRead.java`
+`
+javac CSVFileRead.java
+`
 
 ### Running the program
 * Double click on `run.bat` to compile the program.
