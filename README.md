@@ -24,13 +24,13 @@ E:\Code> javac CSVFileRead.java
 * Finally, Double click on `run.bat` to run the program with one of the sample input case.
 * To run the program with different input use the following **syntax**
 ````
-** java CSVFileRead <CSV-price-file> <custom input seperated by spaces>**
+java CSVFileRead **<CSV-price-file>** <custom input seperated by spaces>
 ````
 * CSV-price-file is the data file with extension `.csv`, which contains all the shop/product pricing.*
 for e.g.
 ````
-** E:\Code> java CSVFileRead data.csv scissor powder_puff cotton_balls**
+E:\Code> java CSVFileRead data.csv scissor powder_puff cotton_balls
 ````
-####Note:
+#### Note:
 * If the `CSV-price-file` is in other directory please use the full path with file name, otherwise it will give error or alternatively copy the `CSV-price-file` in the directory `E:\Code`.
 * Maintain the case in the program name `CSV-price-file` to avoid any errors.
