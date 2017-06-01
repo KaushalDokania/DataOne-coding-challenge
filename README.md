@@ -9,7 +9,7 @@
 ### Compiling the program
 * Double click on `compile.bat` in `E:\code` directory to compile the program
 
-								or
+	or
 Open command prompt and change the directory to `E:\Code` by typing the following
 ````
 > cd E:\code
