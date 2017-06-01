@@ -9,7 +9,7 @@
 ### Compiling the program
 * Double click on `compile.bat` in the directory `E:\code` to compile the program.
 
-	or
+	**or**
 
 * Open **command prompt** and change the directory to `E:\Code` by typing the following
 ````
@@ -22,14 +22,14 @@ E:\Code> javac CSVFileRead.java
 
 ### Running the program
 * Finally, Double click on `run.bat` to run the program with one of the sample input case.
-* To run the program with different input use the following **syntax**
+* To run the program with different input use the following syntax
 #### syntax
 ````
-java CSVFileRead <CSV-price-file> <custom input seperated by spaces>
+java CSVFileRead <CSV-price-file> <custom-input>
 ````
- `CSV-price-file` is the data file with extension `.csv`, which contains all the shop/product pricing.
+Here, `CSV-price-file` is the data file with extension `.csv`, which contains all the shop/product pricing followed by the _custom input_ values seperated by spaces.
 
-#### Command
+#### command
 ````
 E:\Code> java CSVFileRead data.csv scissor powder_puff cotton_balls
 ````
