@@ -19,6 +19,7 @@
 ````
 E:\Code> javac CSVFileRead.java
 ````
+** Please ensure you have jdk installed in your PC with the `PATH` environment variable set to the `bin` directory.**
 
 ### Running the program
 * Finally, Double click on `run.bat` to run the program with one of the sample input case.
