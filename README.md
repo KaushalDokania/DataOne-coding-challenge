@@ -26,7 +26,7 @@ E:\Code> javac CSVFileRead.java
 ````
 java CSVFileRead <CSV-price-file> <custom input seperated by spaces>
 ````
-** CSV-price-file is the data file with extension `.csv`, which contains all the shop/product pricing.**
+> CSV-price-file is the data file with extension `.csv`, which contains all the shop/product pricing.
 
 for e.g.
 ````
