@@ -12,7 +12,7 @@
 
 	**or**
 
-* Open **command prompt** and change the directory to `E:\Code` by typing the following
+* Alternatively, Open **command prompt** and change the directory to `E:\Code` by typing the following
 ````
 > cd E:\code
 ````
